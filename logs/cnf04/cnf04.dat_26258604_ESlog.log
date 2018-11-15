@@ -1,0 +1,450 @@
+ITERACION 0
+Solucion:    7 34 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 38 15 30 13 48 19 5 6 31 12 18 25 16 4 49 
+Coste: 55976
+Temperatura: 84102.0
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 1
+Solucion:    34 49 7 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 38 15 30 13 48 19 5 6 31 12 18 25 16 4 
+Coste: 56093
+Temperatura: 75691.8
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 2
+Solucion:    7 34 4 49 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 38 15 30 13 48 19 5 6 31 12 18 25 16 
+Coste: 56281
+Temperatura: 68122.62000000001
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 3
+Solucion:    49 7 34 16 4 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 38 15 30 13 48 19 5 6 31 12 18 25 
+Coste: 56380
+Temperatura: 61310.35800000001
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 4
+Solucion:    4 49 7 34 25 16 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 38 15 30 13 48 19 5 6 31 12 18 
+Coste: 56631
+Temperatura: 55179.32220000001
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 5
+Solucion:    16 4 49 7 34 18 25 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 38 15 30 13 48 19 5 6 31 12 
+Coste: 56031
+Temperatura: 49661.38998000001
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 6
+Solucion:    25 16 4 49 7 34 12 18 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 38 15 30 13 48 19 5 6 31 
+Coste: 56135
+Temperatura: 44695.250982000005
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 7
+Solucion:    18 25 16 4 49 7 34 31 12 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 38 15 30 13 48 19 5 6 
+Coste: 56158
+Temperatura: 40225.725883800005
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 8
+Solucion:    12 18 25 16 4 49 7 34 6 31 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 38 15 30 13 48 19 5 
+Coste: 56059
+Temperatura: 36203.15329542001
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 9
+Solucion:    31 12 18 25 16 4 49 7 34 5 6 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 38 15 30 13 48 19 
+Coste: 56209
+Temperatura: 32582.837965878007
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 10
+Solucion:    6 31 12 18 25 16 4 49 7 34 19 5 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 38 15 30 13 48 
+Coste: 55889
+Temperatura: 29324.554169290208
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 11
+Solucion:    5 6 31 12 18 25 16 4 49 7 34 48 19 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 38 15 30 13 
+Coste: 56091
+Temperatura: 26392.098752361188
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 12
+Solucion:    19 5 6 31 12 18 25 16 4 49 7 34 13 48 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 38 15 30 
+Coste: 55948
+Temperatura: 23752.888877125068
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 13
+Solucion:    48 19 5 6 31 12 18 25 16 4 49 7 34 30 13 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 38 15 
+Coste: 56404
+Temperatura: 21377.59998941256
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 14
+Solucion:    13 48 19 5 6 31 12 18 25 16 4 49 7 34 15 30 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 38 
+Coste: 56265
+Temperatura: 19239.839990471304
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 15
+Solucion:    30 13 48 19 5 6 12 31 18 25 16 4 49 7 34 38 15 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 20 
+Coste: 55681
+Temperatura: 17315.855991424174
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 16
+Solucion:    15 30 13 48 19 5 6 12 31 18 25 16 4 49 7 34 20 38 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 36 
+Coste: 56043
+Temperatura: 15584.270392281756
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 17
+Solucion:    38 15 30 13 48 19 5 6 12 31 18 25 16 4 49 7 34 36 20 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 3 
+Coste: 56114
+Temperatura: 14025.84335305358
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 18
+Solucion:    20 38 15 30 13 48 19 5 6 12 31 18 25 16 4 49 7 34 3 36 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 14 
+Coste: 55947
+Temperatura: 12623.259017748223
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 19
+Solucion:    36 20 38 15 30 13 48 19 5 6 12 31 18 25 16 4 49 7 34 14 3 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 35 
+Coste: 55980
+Temperatura: 11360.933115973401
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 20
+Solucion:    3 36 20 38 15 30 13 48 19 5 6 12 31 18 25 16 4 49 7 34 35 14 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 46 
+Coste: 56018
+Temperatura: 10224.83980437606
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 21
+Solucion:    14 3 36 20 38 15 30 13 19 48 5 6 12 31 25 18 16 4 49 7 34 46 35 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 17 29 41 28 47 
+Coste: 56090
+Temperatura: 9202.355823938455
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 22
+Solucion:    35 14 3 36 20 38 15 30 13 19 48 5 6 12 31 25 18 16 4 49 7 34 47 46 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 29 17 41 28 
+Coste: 56022
+Temperatura: 8282.12024154461
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 23
+Solucion:    46 35 14 3 36 20 38 15 30 13 19 48 5 6 12 31 25 18 16 4 49 7 34 28 47 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 29 17 41 
+Coste: 56208
+Temperatura: 7453.908217390149
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 24
+Solucion:    47 46 35 14 3 36 20 38 15 30 13 19 48 5 6 12 31 25 18 16 4 49 7 34 41 28 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 29 17 
+Coste: 56400
+Temperatura: 6708.517395651134
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 25
+Solucion:    28 47 46 35 14 3 36 20 38 15 30 13 19 48 5 6 12 31 25 18 16 4 49 7 34 17 41 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 37 11 33 23 45 39 8 29 
+Coste: 55846
+Temperatura: 6037.665656086021
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 26
+Solucion:    28 41 47 46 35 14 3 36 20 38 15 30 13 19 48 5 6 12 31 25 18 16 4 49 7 34 29 17 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 11 37 33 23 45 39 8 
+Coste: 56206
+Temperatura: 5433.899090477419
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 27
+Solucion:    17 28 41 47 46 35 14 3 36 20 38 15 30 13 19 48 5 6 12 31 25 18 16 4 49 7 34 8 29 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 11 37 33 23 45 39 
+Coste: 55952
+Temperatura: 4890.5091814296775
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 28
+Solucion:    29 17 28 41 47 46 35 14 3 36 20 38 15 30 13 19 48 5 6 12 31 25 18 16 4 49 7 34 39 8 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 11 37 33 23 45 
+Coste: 55901
+Temperatura: 4401.45826328671
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 29
+Solucion:    8 29 17 28 41 47 46 35 14 3 36 20 38 15 30 13 19 48 5 6 12 31 25 18 16 4 49 7 34 45 39 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 11 37 33 23 
+Coste: 55812
+Temperatura: 3961.3124369580387
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 30
+Solucion:    39 8 29 17 28 41 47 46 35 14 3 36 20 38 15 30 13 19 48 5 6 12 31 25 16 18 4 49 7 34 33 45 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 11 37 23 
+Coste: 56043
+Temperatura: 3565.181193262235
+Probabilidad de aceptación: 0.9734321995539424
+Movimiento: NO
+
+
+
+ITERACION 31
+Solucion:    45 39 8 29 17 28 41 47 46 35 14 3 36 20 38 15 30 13 19 48 5 6 12 31 25 16 18 4 7 49 34 23 33 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 11 37 
+Coste: 55917
+Temperatura: 3208.6630739360116
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 32
+Solucion:    33 45 39 8 29 17 28 41 47 46 35 14 3 36 20 38 15 30 13 19 48 5 6 12 31 25 16 18 4 7 49 34 37 23 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 11 
+Coste: 55771
+Temperatura: 2887.7967665424108
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 33
+Solucion:    23 33 45 39 8 29 17 28 41 47 46 35 14 3 36 20 38 15 30 13 19 48 5 6 12 31 25 16 4 18 7 49 34 11 37 32 9 40 22 44 43 26 10 2 0 1 42 24 21 27 
+Coste: 55830
+Temperatura: 2599.0170898881697
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 34
+Solucion:    37 23 33 45 39 8 29 17 28 41 47 46 35 14 3 36 20 38 15 13 30 19 48 5 6 12 31 25 4 16 18 7 49 34 27 11 32 9 40 22 44 43 26 10 2 0 1 42 24 21 
+Coste: 56018
+Temperatura: 2339.1153808993527
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 35
+Solucion:    11 37 23 33 45 39 8 29 17 28 41 47 46 35 14 3 36 20 38 15 13 30 19 48 5 6 12 31 25 4 16 18 7 49 34 21 27 32 9 22 40 44 43 26 10 2 0 1 42 24 
+Coste: 56214
+Temperatura: 2105.2038428094174
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 36
+Solucion:    27 11 37 23 33 45 39 8 29 17 41 28 47 46 35 14 3 36 20 38 15 13 30 19 48 5 6 12 31 25 4 16 18 7 49 34 24 21 32 9 22 40 44 43 26 10 2 0 1 42 
+Coste: 56130
+Temperatura: 1894.6834585284757
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 37
+Solucion:    21 27 11 37 23 33 45 39 8 29 17 41 28 47 46 35 14 3 36 20 38 15 13 19 30 48 5 6 12 31 25 4 16 18 7 49 34 42 24 32 9 22 40 44 43 26 10 2 0 1 
+Coste: 55971
+Temperatura: 1705.2151126756282
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 38
+Solucion:    24 21 27 11 37 23 33 45 39 8 29 17 41 28 47 46 14 35 3 36 20 38 13 15 19 30 48 5 6 12 31 4 25 16 18 7 49 34 1 42 32 9 22 40 44 43 10 26 2 0 
+Coste: 55881
+Temperatura: 1534.6936014080654
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 39
+Solucion:    42 24 21 27 11 37 23 33 45 8 39 29 17 41 28 47 46 14 35 3 20 36 38 13 15 19 30 48 5 6 12 31 4 25 16 18 7 49 34 0 1 32 9 22 40 44 43 10 26 2 
+Coste: 55992
+Temperatura: 1381.224241267259
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 40
+Solucion:    1 42 24 21 27 11 37 23 33 45 8 39 29 17 41 28 47 14 46 3 35 20 36 38 13 15 19 30 48 5 6 31 12 4 25 16 18 7 49 34 2 0 32 9 22 40 43 44 10 26 
+Coste: 55873
+Temperatura: 1243.101817140533
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 41
+Solucion:    0 1 42 24 21 27 11 37 23 33 45 8 39 29 17 41 28 47 14 46 3 35 20 36 38 13 15 19 30 48 5 6 31 12 4 25 16 18 7 49 34 26 2 32 9 22 40 43 44 10 
+Coste: 55683
+Temperatura: 1118.7916354264798
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 42
+Solucion:    2 0 1 42 24 21 27 11 37 23 33 45 8 39 29 17 41 28 47 14 46 3 35 20 36 38 13 15 19 30 48 5 6 31 12 4 25 16 18 7 49 34 10 26 32 9 22 40 43 44 
+Coste: 56179
+Temperatura: 1006.9124718838319
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 43
+Solucion:    26 2 0 1 42 24 21 27 11 37 23 33 45 8 29 39 17 41 28 47 14 46 3 35 20 36 38 13 19 15 30 48 5 6 31 12 4 25 16 18 7 49 34 44 10 32 9 22 40 43 
+Coste: 55858
+Temperatura: 906.2212246954488
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 44
+Solucion:    10 26 2 0 1 42 24 21 27 11 37 23 33 45 8 29 39 17 41 28 47 14 46 3 35 20 36 38 13 19 15 30 48 5 6 31 12 25 4 16 18 7 49 34 43 44 32 9 22 40 
+Coste: 55961
+Temperatura: 815.599102225904
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 45
+Solucion:    44 10 26 2 0 1 42 24 21 27 11 23 37 33 45 8 29 39 17 41 28 47 14 46 3 35 20 36 38 13 19 15 30 48 5 6 31 12 25 4 16 18 7 49 34 40 43 32 9 22 
+Coste: 55671
+Temperatura: 734.0391920033136
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 46
+Solucion:    43 44 10 26 2 0 1 42 24 21 11 23 27 37 33 45 8 29 17 39 28 41 47 14 46 3 35 20 36 13 38 19 15 30 48 5 6 31 12 25 4 16 18 7 49 34 22 40 32 9 
+Coste: 55981
+Temperatura: 660.6352728029823
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 47
+Solucion:    40 43 44 10 26 2 0 1 42 24 21 11 23 27 37 33 45 8 29 17 39 28 41 47 14 46 3 35 20 36 13 38 19 15 30 48 5 6 31 12 25 4 16 18 7 49 34 9 22 32 
+Coste: 56104
+Temperatura: 594.5717455226841
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 48
+Solucion:    22 40 43 44 10 26 2 0 1 24 42 21 11 23 27 37 45 33 8 29 17 39 28 47 41 14 46 3 35 20 36 13 38 19 15 30 48 5 6 31 12 25 4 16 18 7 49 34 32 9 
+Coste: 55862
+Temperatura: 535.1145709704157
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
+ITERACION 49
+Solucion:    9 22 40 43 44 10 26 2 0 1 24 42 21 11 23 27 37 45 33 8 29 17 28 39 47 41 14 46 3 20 35 36 13 38 19 15 48 30 5 6 31 12 25 4 16 18 7 49 34 32 
+Coste: 55954
+Temperatura: 481.6031138733741
+Probabilidad de aceptación: 1.0
+Movimiento: SI
+
+
+
